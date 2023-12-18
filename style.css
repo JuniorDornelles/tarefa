@@ -8,3 +8,37 @@ h2{
 strong{
     color: blueviolet;
 }
+
+h1{
+    justify-content: center;
+}
+
+  header, footer {
+    background: #58378C;
+    color: white;
+    padding: 16px;
+  }
+
+  
+  main {
+    background-color: #EF7D19;
+    padding: 16px;
+    color: white;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+  }
+  
+  img {
+    margin: 32px;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
